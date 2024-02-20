@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan Fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="notification">Notification</string>
+    <string name="account">Account</string>
+    <string name="fragment_buku">Fragment Buku</string>
+    <string name="fragment_film">Fragment Film</string>
+    <string name="fragment_musik">Fragment Musik</string>
+</resources>
